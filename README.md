@@ -27,7 +27,7 @@ The backend service runs on http://localhost:8088.
 After deployment, to show and test API endpoints the followings can be used:
 
 - **Swagger Documentation:** [Open API Endpoint](http://localhost:8088/swagger-ui/index.html)
-- **Postman Collection:** [Download](https://github.com/uzeyirapaydin/BookStore/CaseStudy.postman_collection.json)
+- **Postman Collection:** [Download](https://raw.githubusercontent.com/uzeyirapaydin/BookStore/main/CaseStudy.postman_collection.json)
 
 ## Usage
 
